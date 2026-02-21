@@ -1,0 +1,26 @@
+name: rise_for_us
+description: A couples wake up app
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_local_notifications: ^17.0.0
+
+flutter:
+  uses-material-design: true
+```
+
+3. **"Commit new file"** click பண்ணுங்க ✅
+
+---
+
+## Step 3 — main.dart Create பண்ணுங்க
+
+1. Again **"Add file → Create new file"** click பண்ணுங்க
+2. File name:
+```
+lib/main.dart
